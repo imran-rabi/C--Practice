@@ -1,0 +1,14 @@
+/Users/imranrabi/Documents/C# Practice/practice/bin/Debug/net8.0/practice
+/Users/imranrabi/Documents/C# Practice/practice/bin/Debug/net8.0/practice.deps.json
+/Users/imranrabi/Documents/C# Practice/practice/bin/Debug/net8.0/practice.runtimeconfig.json
+/Users/imranrabi/Documents/C# Practice/practice/bin/Debug/net8.0/practice.dll
+/Users/imranrabi/Documents/C# Practice/practice/bin/Debug/net8.0/practice.pdb
+/Users/imranrabi/Documents/C# Practice/practice/obj/Debug/net8.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imranrabi/Documents/C# Practice/practice/obj/Debug/net8.0/practice.AssemblyInfoInputs.cache
+/Users/imranrabi/Documents/C# Practice/practice/obj/Debug/net8.0/practice.AssemblyInfo.cs
+/Users/imranrabi/Documents/C# Practice/practice/obj/Debug/net8.0/practice.csproj.CoreCompileInputs.cache
+/Users/imranrabi/Documents/C# Practice/practice/obj/Debug/net8.0/practice.dll
+/Users/imranrabi/Documents/C# Practice/practice/obj/Debug/net8.0/refint/practice.dll
+/Users/imranrabi/Documents/C# Practice/practice/obj/Debug/net8.0/practice.pdb
+/Users/imranrabi/Documents/C# Practice/practice/obj/Debug/net8.0/practice.genruntimeconfig.cache
+/Users/imranrabi/Documents/C# Practice/practice/obj/Debug/net8.0/ref/practice.dll
